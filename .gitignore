@@ -131,3 +131,6 @@ dmypy.json
 # numpy data
 
 numpy/data
+
+# pandas data
+pandas/data
