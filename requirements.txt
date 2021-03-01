@@ -5,3 +5,4 @@ matplotlib
 seaborn 
 jupyter
 line_profiler
+pandas_datareader
