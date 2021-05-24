@@ -134,3 +134,7 @@ numpy/data
 
 # pandas data
 pandas/data
+
+# vscode
+
+.vscode/
